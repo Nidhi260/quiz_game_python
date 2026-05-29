@@ -13,7 +13,7 @@ A modern interactive quiz game built with **Python** and **CustomTkinter**.
 - Python 3
 - CustomTkinter (for sleek UI)
 
-## 🚀 Run Locally
+##  Run Locally
 ```bash
 git clone https://github.com/<your-username>/Quiz_Game.git
 cd Quiz_Game
